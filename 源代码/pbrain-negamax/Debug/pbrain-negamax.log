@@ -1,0 +1,6 @@
+﻿  search.cpp
+c:\users\dave\desktop\pbrain-negamax\search.cpp(152): warning C4018: “>”: 有符号/无符号不匹配
+c:\users\dave\desktop\pbrain-negamax\search.cpp(132): warning C4101: “resultMov”: 未引用的局部变量
+c:\users\dave\desktop\pbrain-negamax\search.cpp(246): warning C4101: “resultMov”: 未引用的局部变量
+  LINK : 没有找到 C:\Users\Dave\Desktop\pbrain-negamax\Debug\pbrain-negamax.exe 或上一个增量链接没有生成它；正在执行完全链接
+  pbrain-negamax.vcxproj -> C:\Users\Dave\Desktop\pbrain-negamax\Debug\pbrain-negamax.exe
